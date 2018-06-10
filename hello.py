@@ -8,4 +8,4 @@ def hello():
 
 @app.route("/Lwin")
 def Lwin():
-    return "Hello Lwin Me Me Khaing"
+    return "Hello LwinMeMeKhaing"
